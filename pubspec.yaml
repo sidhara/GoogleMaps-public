@@ -30,16 +30,6 @@ dependencies:
   permission_handler: ^6.1.1
   #dependencias de localizacion
   geolocator: ^7.0.1
-  #dependencias para ejecucion en segundo plano
-  workmanager: ^0.2.0
-  background_fetch: ^0.7.2
-  #dependencias para notificaciones
-  flutter_local_notifications: ^5.0.0+1
-  firebase_core: ^1.0.3
-  cloud_firestore: ^1.0.4
-  #dependencias para dibujar rutas y direccionamiento
-  dio: ^4.0.0 #cliente http para hacer request
-  flutter_polyline_points: ^0.2.6
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
